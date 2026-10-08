@@ -1,96 +1,71 @@
-# Hi there, I'm Emmanuel Omowumi! 
+# Emmanuel Omowumi
 
-### Senior Data Analyst | Aspiring Data Engineer
-Based out of Nigeria 🇳🇬
+### Data Analyst | Business Intelligence | Transitioning to Data Engineering
+📍 Nigeria 🇳🇬
 
-A dedicated data professional with a strong academic foundation (BSc & MSc from Kwara State University) and extensive experience in data analytics, dashboard engineering, and business intelligence. Currently serving as a **Senior Data Analyst at Softrays Technology Institute**, I specialize in transforming complex, raw data into actionable insights that drive strategic decisions. 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 
-**My Next Frontier:** Having mastered the art of data analysis, visualization, and insight generation, I am actively leveling up my technical stack to transition into **Data Engineering**. I am passionate about building robust data pipelines, optimizing storage architectures, and creating scalable ETL/ELT workflows.
+## About Me
 
----
+Data analyst with 3 years of professional experience in business intelligence, dashboard development and SQL-based reporting. I hold a B.Sc. and an M.Sc. from Kwara State University and currently work as a **Senior Data Analyst at Softrays Technology Institute**, where I turn raw operational data into insights that support finance, marketing and sales decisions.
 
-### What I Do
-*   **Data Analysis & BI:** Architecting interactive dashboards and enterprise reports using **Power BI**, **Tableau**, and **Excel** to empower finance, marketing, and sales teams.
-*   **Database Management:** Querying, structuring, and optimizing relational databases using **MySQL** and **SQL Server**.
-*   **Data Science & Scripting:** Leveraging **Python (Pandas, NumPy, Matplotlib)** for automated data wrangling, exploration, and statistical analysis.
-*   **Data Architecture (Learning):** Transitioning analytical mindsets into building scalable data pipelines, optimizing data models, and streamlining backend ETL data workflows.
+I am now building on this foundation toward **Data Engineering**, with a focus on reliable data pipelines, well-designed data models and scalable ETL/ELT workflows.
 
----
+## What I Do
 
-### Technical Stack & Tooling
+- **Analytics & BI:** Design interactive dashboards and reports in **Power BI**, **Tableau** and **Excel** for business stakeholders.
+- **Databases & SQL:** Query, model and optimise relational data in **MySQL** and **SQL Server**.
+- **Python for Data:** Use **Pandas, NumPy and Matplotlib** for data cleaning, exploration, automation and statistical analysis.
+- **Data Engineering (developing):** Building ETL workflows, data models and pipeline automation to make data more reliable and accessible.
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" alt="Python" width="40" height="40" />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" alt="MySQL" width="40" height="40" />
-      <br />MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" alt="PowerBI" width="40" height="40" />
-      <br />Power BI
-    </td>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" alt="Tableau" width="40" height="40" />
-      <br />Tableau
-    </td>
-    <td align="center" width="96">
-      <img src="https://wikimedia.org–present_.svg" alt="Excel" width="40" height="40" />
-      <br />MS Excel
-    </td>
-  </tr>
-</table>
+## Technical Skills
 
-*   **Libraries & Concepts:** Pandas, NumPy, Matplotlib, Power Query, DAX, Data Modelling, ETL Pipelines, Data Wrangling.
+| Area | Tools & Concepts |
+| --- | --- |
+| Languages | Python, SQL |
+| Databases | MySQL, SQL Server |
+| BI & Visualisation | Power BI, Tableau, Excel, DAX |
+| Data Processing | Pandas, NumPy, Power Query, ETL, Data Wrangling |
+| Modelling | Dimensional/Data Modelling, Statistical Analysis |
 
----
+## Featured Projects
 
-### Featured Analytics Projects
+- **Financial Sales Data Analytics** — *Excel, MySQL*  
+  Analysed the financial performance of a global sales company across 2013 and 2014. Built relational tables in MySQL and visualised trends in manufacturing cost, profit margin and customer reviews.
+- **Sales Analytics & Operations Dashboard** — *Excel, Power BI*  
+  Converted fragmented sales records into an interactive dashboard tracking performance by region, product and customer segment.
+- **Global Store Finance Records** — *Excel, MySQL*  
+  Consolidated high-volume transactional data to assess operational efficiency, regional supply constraints and profit margins across product categories.
+- **Chocolate Revenue Pipeline & Dashboard** — *Power Query, Power BI, Excel*  
+  Cleaned data with missing values, built an end-to-end ETL process, and identified seasonal demand patterns and top revenue-generating products.
 
-*   **📊 Financial Sales Data Analytics**  
-    *   *Stack:* Microsoft Excel, MySQL  
-    *   *Summary:* Analyzed the financial performance of a global sales firm across 2013 and 2014. Built backend relational tables and created visual trend analysis covering manufacturing costs, margins, and customer reviews.
-*   **📈 Sales Analytics & Operations Dashboard**  
-    *   *Stack:* Microsoft Excel, Microsoft Power BI  
-    *   *Summary:* Transformed fragmented, raw sales records into an interactive ecosystem tracking cross-regional performance, regional product variations, and precise consumer segments.
-*   **🌍 Global Store Finance Records**  
-    *   *Stack:* Microsoft Excel, MySQL  
-    *   *Summary:* Consolidated high-volume transactional tables to evaluate operational efficiency, regional supply bottlenecks, and bottom-line margins across international product categories.
-*   **🍫 Chocolate Revenue Data Pipeline & Dashboard**  
-    *   *Stack:* Power Query, ETL Workflows, Power BI, Excel  
-    *   *Summary:* Handled complex missing value structures and executed end-to-end ETL processing to unearth cyclical demand patterns and top revenue-generating assets.
+## Experience
 
----
+**Senior Data Analyst — Softrays Technology Institute** *(2023 – Present)*
+- Own analytics reporting and design stakeholder-facing dashboards.
+- Design and optimise SQL databases and implement ETL processes to streamline data ingestion and reduce processing time.
 
-### 💼 Professional Journey
+## Certifications & Training
 
-*   **Senior Data Analyst | Softrays Technology Institute** *(2023 - Present)*  
-    *   Own the structural architecture of analytics reporting pipelines, designing and tuning stakeholder-facing dashboards.
-    *   Architect and optimize SQL databases; implementing robust ETL processes to streamline data ingestion and reduce processing bottlenecks.
-*   **Certifications & Specializations:**  
-    *   **PL-300:** Microsoft Power BI Data Analyst Associate Prep
-    *   **Advanced Data Analytics 2025** (Excel, SQL, Power BI, Python)
-    *   **Advanced BI & DAX Modeling** (Microsoft Excel/Power Query focus)
+- Microsoft PL-300: Power BI Data Analyst Associate (exam preparation)
+- Advanced Data Analytics 2025 (Excel, SQL, Power BI, Python)
+- Advanced BI & DAX Modelling (Excel / Power Query)
 
----
+## Education
 
-### 🎓 Education
+- **M.Sc. Microbiology** — Kwara State University (2021 – 2023)
+- **B.Sc. Microbiology** — Kwara State University
 
-*   **M.Sc. Microbiology** — Kwara State University (2021 - 2023)
-*   **B.Sc. Microbiology** — Kwara State University (2018 - 2019)
-    *   *Fun Fact:* My background in advanced scientific research and laboratory data validation instilled in me a deep passion for clean data architectures, precise statistical modelling, and structured experimentation.
+My scientific research background built a strong foundation in data validation, statistical thinking and structured experimentation, which I apply to analytics work today.
 
----
+## Let's Connect
 
-### 📬 Let's Connect & Collaborate!
+I am open to **Data Analyst** and **Data Engineering** roles and to collaboration on data projects.
 
-I am actively open to discussing **Data Analyst roles**, junior/associate **Data Engineering roles**, open-source pipeline contributions, or anything data infrastructure related!
-
-*   💼 **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com) *https://www.linkedin.com/in/emmanuel-omowumi-98bb03139/?isSelfProfile=true*
-*   🌐 **Data Portfolio:** [Explore my Full Live Portfolio](https://www.datascienceportfol.io/emmanueloluwatobi201)
-
----
-⚡ *“The goal isn’t just to read the data story; it's to build the infrastructure that lets the data tell its story reliably at scale.”*
+- 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-omowumi-98bb03139/)
+- 🌐 [Data Science Portfolio](https://www.datascienceportfol.io/emmanueloluwatobi201)
+- 📧 emmanueloluwatobi2015@gmail.com
