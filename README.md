@@ -1,5 +1,7 @@
-<h1 align="center">Emmanuel Omowumi</h1>
-<h3 align="center">Senior Data Analyst &nbsp;|&nbsp; Transitioning to Data Engineering &nbsp;|&nbsp; Fintech & Analytics</h3>
+<p align="center">
+  <img src="assets/banner.svg" alt="Emmanuel Omowumi - Senior Data Analyst transitioning to Data Engineering, fintech and analytics" width="100%">
+</p>
+
 <p align="center">Nigeria 🇳🇬 &nbsp;·&nbsp; Open to Data Analyst & Data Engineering roles (on-site, hybrid or remote)</p>
 
 <p align="center">

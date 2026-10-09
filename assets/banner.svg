@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Emmanuel Omowumi - Senior Data Analyst, transitioning to Data Engineering, fintech and analytics">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1f3a"/>
+      <stop offset="1" stop-color="#1f5fbf"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="14" fill="url(#grid)"/>
+
+  <!-- decorative pipeline motif: source -> transform -> warehouse -> insight -->
+  <g transform="translate(790,70)" fill="none" stroke="#ffffff" stroke-opacity="0.85" stroke-width="2.5">
+    <rect x="0" y="40" width="70" height="46" rx="8"/>
+    <rect x="120" y="40" width="70" height="46" rx="8"/>
+    <rect x="240" y="40" width="70" height="46" rx="8"/>
+    <path d="M70 63H120M190 63H240" stroke-linecap="round"/>
+    <path d="M110 57l10 6-10 6M230 57l10 6-10 6" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- bar chart insight -->
+    <g stroke="none" fill="#7fb2ff">
+      <rect x="258" y="150" width="12" height="30" rx="2"/>
+      <rect x="278" y="132" width="12" height="48" rx="2"/>
+      <rect x="298" y="110" width="12" height="70" rx="2"/>
+    </g>
+    <path d="M0 180H320" stroke-opacity="0.3"/>
+  </g>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" fill="#ffffff" font-size="12" text-anchor="middle" fill-opacity="0.8">
+    <text x="825" y="68">SOURCE</text>
+    <text x="945" y="68">TRANSFORM</text>
+    <text x="1065" y="68">WAREHOUSE</text>
+  </g>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" fill="#ffffff">
+    <text x="60" y="118" font-size="54" font-weight="700">Emmanuel Omowumi</text>
+    <text x="60" y="162" font-size="24" fill-opacity="0.92">Senior Data Analyst &#8594; Data Engineer</text>
+    <text x="60" y="198" font-size="18" fill="#bcd6ff">Fintech &#183; Analytics &#183; Reliable data pipelines &#183; Data storytelling</text>
+  </g>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#0b1f3a">
+    <rect x="60" y="226" width="74" height="30" rx="15" fill="#ffffff"/><text x="97" y="246" text-anchor="middle">Python</text>
+    <rect x="144" y="226" width="60" height="30" rx="15" fill="#ffffff"/><text x="174" y="246" text-anchor="middle">SQL</text>
+    <rect x="214" y="226" width="60" height="30" rx="15" fill="#ffffff"/><text x="244" y="246" text-anchor="middle">dbt</text>
+    <rect x="284" y="226" width="86" height="30" rx="15" fill="#ffffff"/><text x="327" y="246" text-anchor="middle">DuckDB</text>
+    <rect x="380" y="226" width="86" height="30" rx="15" fill="#ffffff"/><text x="423" y="246" text-anchor="middle">Power BI</text>
+    <rect x="476" y="226" width="80" height="30" rx="15" fill="#ffffff"/><text x="516" y="246" text-anchor="middle">Airflow</text>
+  </g>
+</svg>
