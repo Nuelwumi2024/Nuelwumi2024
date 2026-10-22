@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Emmanuel Omowumi - Senior Data Analyst transitioning to Data Engineering, fintech and analytics" width="100%">
+  <img src="assets/banner.svg" alt="Emmanuel Omowumi - Data Analyst moving into Data Engineering: fintech, analytics and reliable data pipelines" width="100%">
 </p>
 
 <p align="center">Nigeria 🇳🇬 &nbsp;·&nbsp; Open to Data Analyst & Data Engineering roles (on-site, hybrid or remote)</p>
@@ -16,7 +16,7 @@
 
 Data analyst with **3 years of professional experience** in business intelligence, dashboard development and SQL-based reporting. B.Sc. and M.Sc. (Kwara State University). I currently work as a **Data Analyst in the Sales Department at Learn Africa Plc**, and previously worked as a **Senior Data Analyst at Softrays Information Technology**, turning operational data into insights that support finance, marketing and sales decisions.
 
-I am building on that foundation toward **Data Engineering**: reliable pipelines, well-designed data models, tested transformations and clear data storytelling. The projects below were built to show those skills end to end: three on **real Nigerian data or public reviews** (inflation, customer experience) and a business-analytics project for **FMCG distribution**, alongside five fintech data-engineering projects (payments, wallets and digital lending).
+I am building on that foundation toward **Data Engineering**: reliable pipelines, well-designed data models, tested transformations and clear data storytelling. The projects below were built to show those skills end to end: three business-analytics projects (two on **real public data**: NBS inflation statistics and app reviews; one on **FMCG distribution** using synthetic data), alongside five fintech data-engineering projects (payments, wallets and digital lending).
 
 ## Featured projects: business analytics on Nigerian data
 
