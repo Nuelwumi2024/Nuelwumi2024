@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Emmanuel Omowumi - Data Analyst moving into Data Engineering: fintech, analytics and reliable data pipelines" width="100%">
+  <img src="assets/banner.svg" alt="Emmanuel Omowumi - Senior Data Analyst. SQL, Python, Power BI and data engineering. Nigeria." width="100%">
 </p>
 
 <p align="center">Nigeria 🇳🇬 &nbsp;·&nbsp; Open to Data Analyst & Data Engineering roles (on-site, hybrid or remote)</p>
