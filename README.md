@@ -14,7 +14,7 @@
 
 ## About
 
-Data analyst with **3 years of professional experience** in business intelligence, dashboard development and SQL-based reporting. B.Sc. and M.Sc. (Kwara State University). I currently work as a **Senior Data Analyst at Softrays Technology Institute**, turning operational data into insights that support finance, marketing and sales decisions.
+Data analyst with **3 years of professional experience** in business intelligence, dashboard development and SQL-based reporting. B.Sc. and M.Sc. (Kwara State University). I currently work as a **Data Analyst in the Sales Department at Learn Africa Plc**, and previously worked as a **Senior Data Analyst at Softrays Information Technology**, turning operational data into insights that support finance, marketing and sales decisions.
 
 I am building on that foundation toward **Data Engineering**: reliable pipelines, well-designed data models, tested transformations and clear data storytelling. The projects below were built to show those skills end to end: three on **real Nigerian data or public reviews** (inflation, customer experience) and a business-analytics project for **FMCG distribution**, alongside five fintech data-engineering projects (payments, wallets and digital lending).
 
@@ -72,9 +72,16 @@ Each repo has its own README with architecture, results and run instructions. CI
 
 ## Experience
 
-**Senior Data Analyst, Softrays Technology Institute** *(2023 – Present)*
-- Own analytics reporting and design stakeholder-facing dashboards.
-- Design and optimise SQL databases and implement ETL processes to streamline data ingestion and reduce processing time.
+**Data Analyst, Sales Department, Learn Africa Plc** *(June 2025 – Present)*
+- Turn sales data into reporting and insight that supports sales decisions, using SQL, Power BI and Excel.
+
+**Senior Data Analyst, Softrays Information Technology** *(January 2023 – March 2025)*
+- Built and maintained Tableau and Power BI dashboards that tracked KPIs for projects and teams.
+- Analysed customer survey data in Excel, R and Python to identify trends that shaped marketing strategy.
+- Queried relational databases with SQL and applied hypothesis testing, correlation and regression.
+
+**Quality In-Process Analyst, Olam** *(February 2021 – December 2023)*
+- Analysed microbiological and quality test data, led root cause analysis and produced trend reports for management.
 
 ## Certifications & training
 
