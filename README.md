@@ -16,7 +16,19 @@
 
 Data analyst with **3 years of professional experience** in business intelligence, dashboard development and SQL-based reporting. B.Sc. and M.Sc. (Kwara State University). I currently work as a **Senior Data Analyst at Softrays Technology Institute**, turning operational data into insights that support finance, marketing and sales decisions.
 
-I am building on that foundation toward **Data Engineering**: reliable pipelines, well-designed data models, tested transformations and clear data storytelling. The projects below were built to show those skills end to end, in a **Nigerian fintech context** (payments, wallets and digital lending).
+I am building on that foundation toward **Data Engineering**: reliable pipelines, well-designed data models, tested transformations and clear data storytelling. The projects below were built to show those skills end to end: three on **real Nigerian data or public reviews** (inflation, customer experience) and a business-analytics project for **FMCG distribution**, alongside five fintech data-engineering projects (payments, wallets and digital lending).
+
+## Featured projects: business analytics on Nigerian data
+
+Built to show analytics for hiring managers in any sector: real data, SQL, BI modelling and clear recommendations.
+
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| **[Nigeria Cost-of-Living Tracker](https://github.com/Nuelwumi2024/nigeria-cost-of-living-tracker)** | **Real NBS CPI data (1995-2026)**: inflation drivers, purchasing power and the ₦70,000 minimum wage, urban vs rural, and a scenario outlook. Found and flagged a January anomaly in the published index. Includes a Power BI model and an executive brief. | Python, pandas, Power BI (DAX), pytest, GitHub Actions |
+| **[FMCG Distribution Analytics](https://github.com/Nuelwumi2024/nigeria-fmcg-distribution-analytics)** | **Commercial analytics in SQL**: margin squeeze, Pareto/ABC, channel mix, silent-outlet detection, stock-out loss and rep attainment, with estimators validated against known ground truth. | SQL, DuckDB, Python, Power BI (DAX), pytest |
+| **[Nigerian App Review Analysis](https://github.com/Nuelwumi2024/nigeria-app-review-analysis)** | **Customer-experience analytics** on public Play Store reviews of fintech, bank and telecom apps: complaint themes, rating penalties, a ranked fix list per app. | Python, pandas, NLP (rule-based), pytest |
+
+> The distribution project uses seeded **synthetic** data and says so. The other two use real public data (NBS statistics, public app reviews).
 
 ## Featured projects: fintech data engineering & analytics
 
