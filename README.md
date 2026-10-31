@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/emmanuel-omowumi-98bb03139/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://nuelwumi2024.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-2a9d8f" alt="Portfolio website"></a>
-  <a href="https://www.datascienceportfol.io/emmanueloluwatobi201"><img src="https://img.shields.io/badge/Data%20Science%20Portfolio-View-1f5fbf" alt="Data Science Portfolio"></a>
   <a href="mailto:emmanueloluwatobi2015@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -105,5 +104,4 @@ I am open to **Data Analyst** and **Data Engineering** roles, particularly in **
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-omowumi-98bb03139/)
 - 🌐 [Portfolio website](https://nuelwumi2024.github.io/)
-- 📊 [Data Science Portfolio](https://www.datascienceportfol.io/emmanueloluwatobi201)
 - 📧 emmanueloluwatobi2015@gmail.com
