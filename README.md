@@ -16,7 +16,7 @@
 
 Data analyst with **3 years of professional experience** in business intelligence, dashboard development and SQL-based reporting. B.Sc. and M.Sc. (Kwara State University). I currently work as a **Data Analyst in the Sales Department at Learn Africa Plc**, and previously worked as a **Senior Data Analyst at Softrays Information Technology**, turning operational data into insights that support finance, marketing and sales decisions.
 
-I am building on that foundation toward **Data Engineering**: reliable pipelines, well-designed data models, tested transformations and clear data storytelling. The projects below were built to show those skills end to end: five business-analytics projects (two on **real public data**: NBS inflation statistics and app reviews; three on synthetic data: **FMCG distribution** and two **Power BI case studies** on retail profitability and HR attrition), alongside five fintech data-engineering projects (payments, wallets and digital lending).
+I am building on that foundation toward **Data Engineering**: reliable pipelines, well-designed data models, tested transformations and clear data storytelling. The projects below were built to show those skills end to end: six business-analytics projects (three on **real public data**: NBS inflation statistics, app reviews and CMS Medicare readmissions; three on synthetic data: **FMCG distribution** and two **Power BI case studies** on retail profitability and HR attrition), alongside five fintech data-engineering projects (payments, wallets and digital lending).
 
 ## Featured projects: business analytics on Nigerian data
 
@@ -29,8 +29,9 @@ Built to show analytics for hiring managers in any sector: real data, SQL, BI mo
 | **[Nigerian App Review Analysis](https://github.com/Nuelwumi2024/nigeria-app-review-analysis)** | **Customer-experience analytics** on public Play Store reviews of fintech, bank and telecom apps: complaint themes, rating penalties, a ranked fix list per app. | Python, pandas, NLP (rule-based), pytest |
 | **[Atlas Global Retail: Profit Case Study](https://github.com/Nuelwumi2024/powerbi-global-superstore-analysis)** | **Power BI story**: why sales grew 43% while profit grew 6%. Star schema, DAX, budget vs actual; heavy discounts (30%+) lost $105K, and a 20% cap would add about $125K profit. Finished `.pbix` included. | Power BI, DAX, Power Query, Python |
 | **[HR Attrition & Workforce Analytics](https://github.com/Nuelwumi2024/powerbi-hr-attrition-dashboard)** | **People analytics in Power BI**: 27.5% attrition (49% in Customer Support), overtime lifting attrition from 23% to 38%, about $13M replacement cost, five costed recommendations. | Power BI, DAX, Power Query, Python |
+| **[Hospital Readmissions Analysis](https://github.com/Nuelwumi2024/hospital-readmissions-analysis)** | **Healthcare analytics on real CMS Medicare data** (3,055 hospitals): heart failure and pneumonia drive 77% of excess readmissions, and 561 hospitals that are consistently worse than the benchmark generate 49% of it, tested against chance. | Python, pandas, Matplotlib, Power BI (DAX) |
 
-> The distribution, retail and HR projects use seeded **synthetic** data and say so. The cost-of-living and app-review projects use real public data (NBS statistics, public app reviews).
+> The distribution, retail and HR projects use seeded **synthetic** data and say so. The cost-of-living, app-review and hospital-readmissions projects use real public data (NBS statistics, public app reviews, CMS Medicare data).
 
 ## Featured projects: fintech data engineering & analytics
 
