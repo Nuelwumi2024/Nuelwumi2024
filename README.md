@@ -25,7 +25,7 @@ Built to show analytics for hiring managers in any sector: real data, SQL, BI mo
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
 | **[Nigeria Cost-of-Living Tracker](https://github.com/Nuelwumi2024/nigeria-cost-of-living-tracker)** | **Real NBS CPI data (1995-2026)**: inflation drivers, purchasing power and the ₦70,000 minimum wage, urban vs rural, and a scenario outlook. Found and flagged a January anomaly in the published index. Includes a Power BI model and an executive brief. | Python, pandas, Power BI (DAX), pytest, GitHub Actions |
-| **[FMCG Distribution Analytics](https://github.com/Nuelwumi2024/nigeria-fmcg-distribution-analytics)** | **Commercial analytics in SQL**: margin squeeze, Pareto/ABC, channel mix, silent-outlet detection, stock-out loss and rep attainment, with estimators validated against known ground truth. | SQL, DuckDB, Python, Power BI (DAX), pytest |
+| **[FMCG Distribution Analytics](https://github.com/Nuelwumi2024/nigeria-fmcg-distribution-analytics)** | **Commercial analytics in SQL**: margin squeeze, Pareto/ABC, channel mix, silent-outlet detection, stock-out loss and rep attainment, with estimators validated against known ground truth. | SQL, Python, Power BI (DAX), pytest |
 | **[Nigerian App Review Analysis](https://github.com/Nuelwumi2024/nigeria-app-review-analysis)** | **Customer-experience analytics** on public Play Store reviews of fintech, bank and telecom apps: complaint themes, rating penalties, a ranked fix list per app. | Python, pandas, NLP (rule-based), pytest |
 | **[Atlas Global Retail: Profit Case Study](https://github.com/Nuelwumi2024/powerbi-global-superstore-analysis)** | **Power BI story**: why sales grew 43% while profit grew 6%. Star schema, DAX, budget vs actual; heavy discounts (30%+) lost $105K, and a 20% cap would add about $125K profit. Finished `.pbix` included. | Power BI, DAX, Power Query, Python |
 | **[HR Attrition & Workforce Analytics](https://github.com/Nuelwumi2024/powerbi-hr-attrition-dashboard)** | **People analytics in Power BI**: 27.5% attrition (49% in Customer Support), overtime lifting attrition from 23% to 38%, about $13M replacement cost, five costed recommendations. | Power BI, DAX, Power Query, Python |
@@ -38,10 +38,10 @@ Each repo has its own README with architecture, results and run instructions. CI
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
-| **[Naira Payments ETL Pipeline](https://github.com/Nuelwumi2024/naira-payments-etl-pipeline)** | Batch ETL with a **star schema**, bad-record **quarantine with reasons**, row-count **reconciliation**, quality gates that fail the run, an audit table and an Airflow DAG. | Python, pandas, DuckDB, SQL, pytest, Airflow, GitHub Actions |
-| **[Fintech dbt Analytics Warehouse](https://github.com/Nuelwumi2024/fintech-dbt-analytics-warehouse)** | **Analytics engineering**: layered dbt models (staging → marts), 12 data tests including FK integrity, a custom singular test, reusable macros and CI running `dbt build`. | dbt, DuckDB, SQL, Jinja, GitHub Actions |
-| **[Transaction Fraud Analysis](https://github.com/Nuelwumi2024/transaction-fraud-analysis)** | **Data storytelling** for risk teams: fraud lift by segment, rule precision/recall trade-offs, review-queue sizing and a ranked recommendation. | SQL, Python, DuckDB, Matplotlib |
-| **[Wallet Churn & Retention Story](https://github.com/Nuelwumi2024/wallet-churn-retention-story)** | **Product and growth analytics**: cohort retention heatmap, channel quality, activation analysis (with a correlation-vs-causation caveat) and actions for Growth. | SQL, Python, DuckDB, Matplotlib |
+| **[Naira Payments ETL Pipeline](https://github.com/Nuelwumi2024/naira-payments-etl-pipeline)** | Batch ETL with a **star schema**, bad-record **quarantine with reasons**, row-count **reconciliation**, quality gates that fail the run, an audit table and an Airflow DAG. | Python, pandas, SQL, pytest, Airflow, GitHub Actions |
+| **[Fintech dbt Analytics Warehouse](https://github.com/Nuelwumi2024/fintech-dbt-analytics-warehouse)** | **Analytics engineering**: layered dbt models (staging → marts), 12 data tests including FK integrity, a custom singular test, reusable macros and CI running `dbt build`. | dbt, SQL, Jinja, GitHub Actions |
+| **[Transaction Fraud Analysis](https://github.com/Nuelwumi2024/transaction-fraud-analysis)** | **Data storytelling** for risk teams: fraud lift by segment, rule precision/recall trade-offs, review-queue sizing and a ranked recommendation. | SQL, Python, Matplotlib |
+| **[Wallet Churn & Retention Story](https://github.com/Nuelwumi2024/wallet-churn-retention-story)** | **Product and growth analytics**: cohort retention heatmap, channel quality, activation analysis (with a correlation-vs-causation caveat) and actions for Growth. | SQL, Python, Matplotlib |
 | **[Loan Portfolio Risk Dashboard](https://github.com/Nuelwumi2024/loan-portfolio-risk-dashboard)** | **Credit-risk monitoring**: PAR 30/60/90, NPL proxy, vintage curves and segment delinquency, with unit-tested metric definitions and an HTML dashboard. | Python, pandas, Matplotlib, pytest |
 
 > **Note on data:** all five projects use a seeded, **synthetic** dataset that mimics a Nigerian payments and lending business. No real customer data is used, and each README states this openly.
@@ -59,8 +59,8 @@ Each repo has its own README with architecture, results and run instructions. CI
 | Area | Tools & concepts |
 | --- | --- |
 | Languages | Python, SQL |
-| Data engineering | ETL/ELT design, star-schema modelling, dbt, DuckDB, data-quality testing, Airflow (DAG authoring), GitHub Actions CI |
-| Databases | MySQL, SQL Server, DuckDB |
+| Data engineering | ETL/ELT design, star-schema modelling, dbt, data-quality testing, Airflow (DAG authoring), GitHub Actions CI |
+| Databases | MySQL, SQL Server |
 | BI & visualisation | Power BI, Tableau, Excel, DAX |
 | Data processing | pandas, NumPy, Power Query, data wrangling |
 | Analytics | Cohort and retention analysis, statistical analysis, risk and KPI reporting |
