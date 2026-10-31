@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emmanuel-omowumi-98bb03139/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.datascienceportfol.io/emmanueloluwatobi201"><img src="https://img.shields.io/badge/Portfolio-View-1f5fbf" alt="Portfolio"></a>
+  <a href="https://nuelwumi2024.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-2a9d8f" alt="Portfolio website"></a>
+  <a href="https://www.datascienceportfol.io/emmanueloluwatobi201"><img src="https://img.shields.io/badge/Data%20Science%20Portfolio-View-1f5fbf" alt="Data Science Portfolio"></a>
   <a href="mailto:emmanueloluwatobi2015@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -16,7 +17,7 @@
 
 Data analyst with **3 years of professional experience** in business intelligence, dashboard development and SQL-based reporting. B.Sc. and M.Sc. (Kwara State University). I currently work as a **Data Analyst in the Sales Department at Learn Africa Plc**, and previously worked as a **Senior Data Analyst at Softrays Information Technology**, turning operational data into insights that support finance, marketing and sales decisions.
 
-I am building on that foundation toward **Data Engineering**: reliable pipelines, well-designed data models, tested transformations and clear data storytelling. The projects below were built to show those skills end to end: three business-analytics projects (two on **real public data**: NBS inflation statistics and app reviews; one on **FMCG distribution** using synthetic data), alongside five fintech data-engineering projects (payments, wallets and digital lending).
+I am building on that foundation toward **Data Engineering**: reliable pipelines, well-designed data models, tested transformations and clear data storytelling. The projects below were built to show those skills end to end: five business-analytics projects (two on **real public data**: NBS inflation statistics and app reviews; three on synthetic data: **FMCG distribution** and two **Power BI case studies** on retail profitability and HR attrition), alongside five fintech data-engineering projects (payments, wallets and digital lending).
 
 ## Featured projects: business analytics on Nigerian data
 
@@ -27,8 +28,10 @@ Built to show analytics for hiring managers in any sector: real data, SQL, BI mo
 | **[Nigeria Cost-of-Living Tracker](https://github.com/Nuelwumi2024/nigeria-cost-of-living-tracker)** | **Real NBS CPI data (1995-2026)**: inflation drivers, purchasing power and the ₦70,000 minimum wage, urban vs rural, and a scenario outlook. Found and flagged a January anomaly in the published index. Includes a Power BI model and an executive brief. | Python, pandas, Power BI (DAX), pytest, GitHub Actions |
 | **[FMCG Distribution Analytics](https://github.com/Nuelwumi2024/nigeria-fmcg-distribution-analytics)** | **Commercial analytics in SQL**: margin squeeze, Pareto/ABC, channel mix, silent-outlet detection, stock-out loss and rep attainment, with estimators validated against known ground truth. | SQL, DuckDB, Python, Power BI (DAX), pytest |
 | **[Nigerian App Review Analysis](https://github.com/Nuelwumi2024/nigeria-app-review-analysis)** | **Customer-experience analytics** on public Play Store reviews of fintech, bank and telecom apps: complaint themes, rating penalties, a ranked fix list per app. | Python, pandas, NLP (rule-based), pytest |
+| **[Atlas Global Retail: Profit Case Study](https://github.com/Nuelwumi2024/powerbi-global-superstore-analysis)** | **Power BI story**: why sales grew 43% while profit grew 6%. Star schema, DAX, budget vs actual; heavy discounts (30%+) lost $105K, and a 20% cap would add about $125K profit. Finished `.pbix` included. | Power BI, DAX, Power Query, Python |
+| **[HR Attrition & Workforce Analytics](https://github.com/Nuelwumi2024/powerbi-hr-attrition-dashboard)** | **People analytics in Power BI**: 27.5% attrition (49% in Customer Support), overtime lifting attrition from 23% to 38%, about $13M replacement cost, five costed recommendations. | Power BI, DAX, Power Query, Python |
 
-> The distribution project uses seeded **synthetic** data and says so. The other two use real public data (NBS statistics, public app reviews).
+> The distribution, retail and HR projects use seeded **synthetic** data and say so. The cost-of-living and app-review projects use real public data (NBS statistics, public app reviews).
 
 ## Featured projects: fintech data engineering & analytics
 
@@ -101,5 +104,6 @@ My scientific research background built a strong foundation in data validation, 
 I am open to **Data Analyst** and **Data Engineering** roles, particularly in **fintech**, and to collaboration on data projects.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-omowumi-98bb03139/)
-- 🌐 [Data Science Portfolio](https://www.datascienceportfol.io/emmanueloluwatobi201)
+- 🌐 [Portfolio website](https://nuelwumi2024.github.io/)
+- 📊 [Data Science Portfolio](https://www.datascienceportfol.io/emmanueloluwatobi201)
 - 📧 emmanueloluwatobi2015@gmail.com
